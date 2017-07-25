@@ -1,4 +1,4 @@
-#import "RCTBridge.h"
+#import <React/RCTBridgeModule.h>
 
 @interface RNPixelColor : NSObject <RCTBridgeModule>
 
